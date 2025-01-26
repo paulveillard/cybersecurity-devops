@@ -9,7 +9,7 @@ An ongoing & curated collection of awesome software best practices and technique
 > In its broadest meaning, DevOps is a philosophy that promotes better communication and collaboration between these teams -- and others -- in an organization.
 
 > <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/devops_2021.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-devops/blob/main/img/devops_2021.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
