@@ -8,6 +8,10 @@ An ongoing & curated collection of awesome software best practices and technique
 - Teams adopt DevOps culture, practices, and tools to increase confidence in the applications they build, respond better to customer needs, and achieve business goals faster. DevOps helps teams continually provide value to customers by producing better, more reliable products.
 > In its broadest meaning, DevOps is a philosophy that promotes better communication and collaboration between these teams -- and others -- in an organization.
 
+> <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-cnapp/blob/main/img/devops_2021.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 ## `Table of Contents`
 
