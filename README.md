@@ -5,7 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `What is DevOps`
 
 
-## Contents
+## `Table of Contents`
 
 - [Cloud Platforms](#cloud-platforms)
 - [Open Source Cloud Platforms](#open-source-cloud-platforms)
